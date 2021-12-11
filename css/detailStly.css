@@ -1,0 +1,27 @@
+h1 {
+  font-family: 'Monoton', cursive;
+  font-weight: bolder !important;
+  font-size: 80px !important;
+  color: #511281;
+}
+.left {
+  margin-left: 10px;
+  font-family: 'Monoton', cursive;
+  color: #000;
+  font-weight: lighter;
+}
+.container {
+  margin-top: 50px !important;
+}
+.card-img-top {
+  max-width: 700px;
+  height: 300px;
+}
+.row {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.row > * {
+  padding: 0px !important;
+  margin: 0px !important;
+}

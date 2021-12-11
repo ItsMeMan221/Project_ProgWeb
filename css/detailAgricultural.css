@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&display=swap');
+.container h1 {
+  font-family: 'Oleo Script', cursive;
+  font-size: 60px;
+}
+.ratio {
+  margin-top: 15px !important;
+}
+.card-img-bottom {
+  max-width: 1400px !important;
+  height: 750px !important;
+}
+.container {
+  margin-top: 100px !important;
+}
+.row {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.row > * {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+@media only screen and (max-width: 1200px) {
+  .card-img-bottom {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}

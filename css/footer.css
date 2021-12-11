@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.back-color {
+  margin-top: 50px;
+  background-color: #753188;
+}
+.back-color h3 {
+  font-family: 'Monoton', cursive;
+  margin-top: 50px;
+  color: #fff;
+  font-size: 30px;
+}
+.back-color h5 {
+  margin-top: 15px;
+  font-size: 15px;
+  margin-bottom: 30px;
+  color: #acacac;
+}
+.back-color h2 {
+  margin-top: 50px;
+  color: #fff;
+}
+.icon-follow {
+  font-size: 3rem;
+  color: #fff;
+}

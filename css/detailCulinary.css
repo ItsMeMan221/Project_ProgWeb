@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Monoton&display=swap');
+
+.container {
+  margin-top: 50px;
+}
+.img-fluid {
+  max-width: 100% !important;
+}
+
+.judul h1 {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 75px !important;
+}
+.detail {
+  margin-top: 50px !important;
+}
+.row {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+.row > * {
+  padding: 0px !important;
+  margin: 0px !important;
+}
